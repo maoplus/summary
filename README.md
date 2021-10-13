@@ -1,11 +1,6 @@
-基础
-
-2020年11月19日
-
-0:35
-
+# 算法
+热门算法排行榜： https://codetop.cc/#/home
 # Jvm
-
 Jvm概述 ： https://blog.csdn.net/liuwenbo0920/article/details/53886431
 
 Java内存模型 ：http://www.hollischuang.com/archives/2509 
@@ -86,19 +81,6 @@ hashCode 跟 Equals 方法 : https://blog.csdn.net/javazejian/article/details/51
 LinkedHashMap原理: https://www.jianshu.com/p/8f4f58b4b8ab
 
  
-
- 
-
- 
-
-数据库
-
-2020年11月19日
-
-0:36
-
- 
-
 # 数据库
 
 数据库隔离级别 ： https://blog.csdn.net/jianghuchuanke/article/details/81026355
@@ -175,16 +157,7 @@ https://cloud.tencent.com/developer/article/1163460
 
 为什么Mongodb索引用B树，而Mysql用B+树: https://zhuanlan.zhihu.com/p/107228878
 
- 
-
- 
-
-Redis
-
-2020年11月19日
-
-0:37
-
+  
  
 
 # Redis
@@ -327,17 +300,7 @@ redis计数器 https://zhuanlan.zhihu.com/p/366250641
 
 redis滑动窗口限流： https://www.haoyizebo.com/posts/e6aa238e/
 
- 
-
- 
-
-分布式
-
-2020年11月19日
-
-0:36
-
- 
+  
 
 # 分布式
 
@@ -374,21 +337,7 @@ Dapper，大规模分布式系统的跟踪系统: http://bigbully.github.io/Dapp
 Skywalking分布式追踪： https://blog.csdn.net/wuzhiwei549/article/details/108856398 
 
 mysql redolog binlog 之二阶段提交: https://blog.csdn.net/daijiguo/article/details/104982890
-
  
-
- 
-
-中间件
-
-2020年11月19日
-
-0:37
-
- 
-
- 
-
 # Kafka
 
 Kafka架构： https://zhuanlan.zhihu.com/p/38269875
@@ -484,19 +433,7 @@ Easticsearch部分更新： https://www.cnblogs.com/shoufeng/p/11348277.html
 PB 级大规模 Elasticsearch 集群运维与调优实践 https://mp.weixin.qq.com/s/OuACr9lNrzmWTbyiBLKq4w
 
 rabbitmq死信队列： https://mfrank2016.github.io/breeze-blog/2020/05/04/rabbitmq/rabbitmq-how-to-use-dead-letter-queue/
-
  
-
- 
-
-并发
-
-2020年11月19日
-
-0:38
-
- 
-
 # 并发
 
 线程池： https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html 
@@ -632,17 +569,6 @@ tomcat线程模型： https://www.cnblogs.com/54chensongxia/p/13289174.html
 高并发下的请求合并: https://segmentfault.com/a/1190000038255460
 
 高并发下单https://zhuanlan.zhihu.com/p/358037287
-
- 
-
- 
-
-Spring
-
-2020年11月19日
-
-0:39
-
  
 
 # Spring
@@ -660,19 +586,7 @@ Spring容器 :https://blog.csdn.net/chenssy/article/details/8188570
 循环依赖： https://juejin.cn/post/6844904122160775176
 
  https://zhuanlan.zhihu.com/p/62382615
-
  
-
- 
-
-网络
-
-2020年11月19日
-
-0:40
-
- 
-
 # 网络
 
 一台机器最多能撑多少个TCP连接? ： https://zhuanlan.zhihu.com/p/290651392
@@ -718,17 +632,6 @@ https://zhuanlan.zhihu.com/p/61927945
 nagle算法: https://blog.csdn.net/wdscq1234/article/details/52432095
 
 socket缓冲 https://zhuanlan.zhihu.com/p/372798949
-
- 
-
- 
-
-操作系统
-
-Monday, May 10, 2021
-
-9:35 PM
-
  
 
 # 操作系统
@@ -736,20 +639,7 @@ Monday, May 10, 2021
 linux内存 https://mp.weixin.qq.com/s/I0BbNCQSSgUKVbvXBj5ttw
 
 读一个字节实际会发生多大的磁盘IO https://mp.weixin.qq.com/s/vekemOfUHBjZSy3uXb49Rw
-
  
-
- 
-
-其他
-
-Monday, March 15, 2021
-
-1:58 PM
-
- 
-
-   
 
 # 其他
 
@@ -757,27 +647,12 @@ Monday, March 15, 2021
 
 技术前沿： https://insights.thoughtworks.cn/
 
-热门算法排行榜： https://codetop.cc/#/home
-
- 
-
- 
-
-读书笔记
-
-2020年11月19日
-
-0:40
-
- 
 
 # 各种读书笔记
 
  
 
 Effective Java
-
- 
 
 https://www.shuzhiduo.com/A/pRdBx8knJn/
 
@@ -847,39 +722,10 @@ https://blog.csdn.net/breavo_raw/article/details/105274856
 
 https://blog.csdn.net/breavo_raw/article/details/105431780
 
- 
-
- 
-
- 
-
- 
-
- 
-
-golang
-
-Sunday, May 30, 2021
-
-10:52 PM
-
- 
-
 # golang
 
 golang知识图谱 https://learnku.com/articles/56078
 
- 
-
- 
-
-面试题大全
-
-Thursday, April 1, 2021
-
-10:47 PM
-
- 
 
 # 面试题大全
 
